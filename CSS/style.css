@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+/*
+	This file serves primarily as the design file for both pages in activity 2*/
+
+
+	
+
+	div
+	{
+		max-width: 1000px;
+		text-align: center;
+	}
+	
+	#main
+	{
+		
+		background-color: #eeeefe;
+		
+		
+		margin: 0 auto;
+		padding: 12px;
+	}
+	
+	
+	h1
+	{
+		font-weight: bold;
+		text-align: center;
+	}
+	
+	p
+	{
+		max-width: 1000px;
+		/*text-align: center; */
+	}
+	
+	image
+	{
+		float: right;
+	}
